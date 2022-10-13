@@ -2,7 +2,8 @@
 ✨<strong><i>The Web's world is too big & too amazing not to trying to discover it!</i></strong>✨
 <hr>
 
-I came from a Tech Academy and here below you find also some projects I made that replicate some famous website and webapp. :bag: :computer:
+I came from a Tech Academy and here below you find also some projects I made that replicate some famous website and webapp. :books: :computer:
+I'm really excited to have discovered this fantastic "dark side of the Web" and I'm always ready to learn something every single day! :battery:
 
 My hobbies are games and football.⚽ 🎮 
 
