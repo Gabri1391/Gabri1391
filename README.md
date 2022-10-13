@@ -1,4 +1,5 @@
 ### Hi there, I'm Gabriele,I'm Italian and I'm a Jr. Web Developer 👋
+<strong><i>The Web's world is too big & too amazing not to trying to discover it!</i></strong>
 
 <!--
 **Gabri1391/Gabri1391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
