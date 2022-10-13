@@ -1,11 +1,14 @@
 ### Hi there, I'm Gabriele,I'm Italian and I'm a Jr. Web Developer 👋:computer:
 ✨<strong><i>The Web's world is too big & too amazing not to trying to discover it!</i></strong>✨
+<hr>
 
 I came from a Tech Academy and here below you find also some projects I made that replicate some famous website and webapp.
 
-My hobbies are games and football. :ball: :games:
+My hobbies are games and football.⚽ 🎮
 
-Hope you enjoy!:relaxed:
+📫 How to reach me: 📧 chiarellogabriele@gmail.com
+
+Hope you enjoy! ☺️
 
 <!--
 **Gabri1391/Gabri1391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
